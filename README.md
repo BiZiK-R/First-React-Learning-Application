@@ -16,7 +16,7 @@ There is a search for posts by words (NOT dependent on the regitra of letters).
 - [Node](https://nodejs.org/)
 
 ## Использование
-##### Клонировать репозиторий, удалить историю
+##### Клонировать репозиторий
 ```
 git clone https://github.com/BiZiK-R/First-React-Learning-Application firstApp
 cd firstApp
