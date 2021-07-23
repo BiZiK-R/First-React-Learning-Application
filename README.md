@@ -12,10 +12,22 @@ There is a search for posts by words (NOT dependent on the regitra of letters).
 Так же есть фильтрация по постам среди всех и лайкнутых. (Наверное добавлю филтрацию по избранному это займёт 10 минут)
 Присутствует поиск постов по словам (НЕ зависимо от регитра букв). 
 
-### `npm start`
+## Требования
+- [Node](https://nodejs.org/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Использование
+##### Клонировать репозиторий, удалить историю
+```
+git clone https://github.com/BiZiK-R/First-React-Learning-Application firstApp
+cd firstApp
+```
+##### Установить npm зависимости
+```
+npm install
+```
+##### Разработка
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Для запуска веб-сервера с лайврелоадом
+```
+npm start
+```
